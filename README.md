@@ -19,9 +19,7 @@ Atualmente, aprofundo competências exigidas de profissionais Java de nível ple
 
 | Projeto | Problema e evidências |
 | --- | --- |
-| [DSCatalog](https://github.com/asmeduardo/DSCatalog) | API de catálogo com Java 21, Spring Boot, PostgreSQL, segurança, validação e testes automatizados. |
-| [API REST — desafios TDD](https://github.com/asmeduardo/api-rest-desafios-tdd) | Regras de negócio desenvolvidas com testes, persistência e tratamento de erros. |
-| [Spring Boot OAuth 2.0 e JWT](https://github.com/asmeduardo/spring-boot-oauth2-jwt) | Implementação focada em autenticação, autorização e proteção de APIs. |
+| [Calculo Psicrometrico](https://play.google.com/store/apps/details?id=ifmg.grapsidroid&hl=pt_BR) | Redesenho de um aplicativo Android com mais de 10 mil downloads; a avaliação SUS evoluiu de 72,28 para 89,64. Código privado por acordo de confidencialidade. |
 
 ## Em construção
 
