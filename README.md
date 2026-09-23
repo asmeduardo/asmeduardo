@@ -1,8 +1,8 @@
 # Eduardo Melo
 
-**Desenvolvedor Backend Java · Spring Boot · React e TypeScript**
+**Engenheiro de Software · Java e Spring Boot · Backend, APIs REST e React**
 
-Bacharel em Sistemas de Informação, com mais de dois anos de experiência no desenvolvimento e na implantação de aplicações web para órgãos públicos. Construo APIs REST, integrações e produtos orientados a problemas reais, com atenção a segurança, testes, dados e operação.
+Bacharel em Sistemas de Informação, com mais de dois anos de experiência no desenvolvimento e na implantação de aplicações web para órgãos públicos. Minha especialização atual é engenharia de software com Java e Spring Boot, sem perder a experiência full stack adquirida com PHP, MySQL, JavaScript e React.
 
 Atualmente, aprofundo competências exigidas de profissionais Java de nível pleno por meio de projetos que exploram consistência transacional, mensageria, observabilidade, containers e nuvem. As tecnologias são adicionadas ao meu perfil à medida que passam a ter código e evidências públicas.
 
@@ -30,7 +30,7 @@ Os roadmaps são públicos e deixam explícito o que já foi entregue e o que ai
 
 ## Experiência que orienta meus projetos
 
-- desenvolvimento de APIs e integrações com Java e Spring Boot;
+- manutenção e evolução de aplicações web usadas por cidadãos e pela administração pública;
 - autorização para proteger registros pertencentes a usuários diferentes;
 - digitalização de processos antes mantidos em planilhas impressas;
 - implantação e sustentação em Linux com Docker e CI/CD;
@@ -41,4 +41,4 @@ Os roadmaps são públicos e deixam explícito o que já foi entregue e o que ai
 - [LinkedIn](https://www.linkedin.com/in/meloeduardo92)
 - [E-mail](mailto:eduardo.melo01992@gmail.com)
 
-Estou aberto a oportunidades no Brasil como desenvolvedor backend Java ou full stack com predominância de Java e frontend em React.
+Estou aberto a oportunidades no Brasil como engenheiro de software, desenvolvedor backend Java ou desenvolvedor full stack com predominância de Java e frontend em React.
